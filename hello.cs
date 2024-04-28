@@ -5,6 +5,6 @@ class Program
  static void Main()
  {
  // Write the string "Hello World to the standard out
- Console.WriteLine("Selamat Pagi");
+ Console.WriteLine("Semangat Pagi");
  }
 }
